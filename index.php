@@ -71,7 +71,7 @@ include 'connect.php';
                 <div class="container padd-15" >
                     <div class="row">
                         <div class="home-info padd-15">
-                            <h3 class="hello">Hello my name is <span class="name"> <?php echo $name; ?> </span></h3>
+                            <h3 class="hello">Hello my name is khalid khan 66<span class="name"> <?php echo $name; ?> </span></h3>
                             <h3 class="my-profession">I'm a <span class="typing"> <?php echo $skill_1;?> </span></h3>
                             <p><?php echo $h_dic;?></p>
                             <a href="#contact" class="btn hire-me">Hire Me</a>
